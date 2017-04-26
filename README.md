@@ -1,6 +1,6 @@
 # npmdoc-raptor-templates
 
-#### api documentation for  [raptor-templates (v1.1.27)](https://github.com/raptorjs3/raptor-templates)  [![npm package](https://img.shields.io/npm/v/npmdoc-raptor-templates.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-raptor-templates) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-raptor-templates.svg)](https://travis-ci.org/npmdoc/node-npmdoc-raptor-templates)
+#### basic api documentation for  [raptor-templates (v1.1.27)](https://github.com/raptorjs3/raptor-templates)  [![npm package](https://img.shields.io/npm/v/npmdoc-raptor-templates.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-raptor-templates) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-raptor-templates.svg)](https://travis-ci.org/npmdoc/node-npmdoc-raptor-templates)
 
 #### Raptor Templates
 
